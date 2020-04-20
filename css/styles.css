@@ -1,0 +1,32 @@
+/************************************* Tag Sellectors *********************************************/
+body {
+  background-color: #f9f7f7;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
+
+h1 {
+  color: #66bfbf;
+}
+
+h3 {
+  color: aquamarine;
+}
+
+/************************************* Class Sellectors *********************************************/
+
+/************************************* Id Sellectors    *********************************************/
+#dave_prof {
+  border-radius: 100%;
+}
+/************************************* PsedoClass Sellector *****************************************/
+a:hover {
+  font-size: 19px;
+  color: red;
+}
